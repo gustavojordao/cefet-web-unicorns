@@ -1,0 +1,79 @@
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+
+body{
+	font-family: "Times New Roman";
+	margin: 0px;
+}
+
+#cabecalho{
+	padding-left: 34px;
+	padding-top: 20px;
+	padding-bottom: 13px;
+	background-color: #6175f0;
+	color: white;
+}
+
+#cabecalho h1{
+	font-family: "Kaushan Script";
+	font-size: 36px;
+}
+
+#verdade{
+	font-size: 14px;
+	font-family: "Arial";
+	padding-bottom: 12px;
+}
+
+#verdade img{
+	float: left;
+	width: 310px;
+	padding-right: 13px;
+}
+
+h2{
+	font-size: 24px;
+	font-family: "Times New Roman";
+}
+
+#verdade audio{
+	visibility: hidden;
+}
+
+#hoje{
+	font-size: 18px;
+	font-family: "Times New Roman";
+	background-color: #f8cef7;
+	border: solid 1px #ff56fb;
+	padding-left: 35px;
+	padding-right: 35px;
+	padding-bottom: 30px;
+	padding-top: 20px;
+	width: 405px;
+	text-align: center;
+	float: right;
+	margin-right: 25px;
+	box-sizing: border-box;
+}
+
+#hoje h3{
+	font-size: 18px;
+}
+
+#hoje img{
+	width: 112px;
+	height: 112px;
+}
+
+#musica p{
+	margin-left: 12px;
+}
+
+p.even{
+	padding-left: 34px;
+}
+
+.destacado{
+	color: #004a79;
+	background-color: #c4caf3;
+	box-sizing: border-box; 
+}
